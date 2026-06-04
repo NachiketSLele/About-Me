@@ -15,7 +15,7 @@ up with practical, demonstrable skills.
 ## Skills
 | Skill | Associated Project |
 |-------|--------------------|
-| SIEM fundamentals & log analysis | <a href="[YOUR-WRITEUPS-REPO]">TryHackMe Write-ups</a> |
+| SIEM fundamentals & log analysis | <a href="https://github.com/NachiketSLele/SIEM">TryHackMe Write-ups</a> |
 | Detection engineering *(in progress)* | *Detection Lab — coming soon* |
 | SOC automation & incident response *(in progress)* | *SOC Automation Lab — coming soon* |
 
