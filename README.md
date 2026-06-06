@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d5c,100:1679a7&height=200&section=header&text=Nachiket%20(Nick)%20Lele&fontSize=48&fontColor=ffffff&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d5c,100:1679a7&height=250&section=header&text=Nachiket%20(Nick)%20Lele&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&descSize=18&descAlignY=56" width="100%" />
 
 <a href="https://www.linkedin.com/in/nachiket-lele-94b46218a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1679A7&center=true&vCenter=true&width=600&lines=ICT+Support+Engineer+%40+NIET+Group;Building+toward+SOC+%2F+Blue+Team;SIEM+%E2%80%A2+Detection+%E2%80%A2+Incident+Response" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1679A7&center=true&vCenter=true&width=600&lines=Building+toward+SOC+%2F+Blue+Team;SIEM+%E2%80%A2+Detection+%E2%80%A2+Incident+Response" />
+
+</div>
 
 </div>
 
