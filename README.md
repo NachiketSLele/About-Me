@@ -21,8 +21,8 @@ Click a domain to jump to the related labs and projects.
 
 | Domain | Focus | Projects & Labs |
 |--------|-------|-----------------|
-| **[Cybersecurity](#)** | SIEM, log analysis, detection, incident response | <a href="https://github.com/NachiketSLele/SIEM">SIEM</a> · TryHackMe Write-ups |
-| **[Data Analytics](#)** | ML, image classification, model evaluation | Medical Mask Detection (CNN) |
+| **[Cybersecurity](#)** | SIEM, log analysis, detection, incident response | <a href="https://github.com/NachiketSLele/SIEM">SIEM (Home Labs - Splunk)</a> |
+| **[Data Analytics](#)** | SQL | <a href="https://github.com/NachiketSLele/Database">SQL Project - Parking Lot Management </a>  |
 | **[Python](#)** | Scripting, automation, data processing | *coming soon* |
 
 ## Tools
