@@ -14,7 +14,7 @@
 Cybersecurity Masters grad (University of Queensland), based in Brisbane and currently working as an ICT Support Engineer at NIET Group. I'm building toward a defensive security / SOC role and use this space to document the labs and write-ups I work through.
 
 ## Objective
-To move into a blue team / SOC analyst role, with a longer-term focus on cloud security. I'm working through hands-on labs in SIEM, detection, and incident response to back that up with practical, demonstrable skills.
+To move into a blue team / SOC analyst role, with a longer-term focus on cloud security. I'm working through hands-on labs in different IT domains to back that up with practical, demonstrable skills.
 
 ## Skills & Labs
 Click a domain to jump to the related labs and projects.
@@ -41,5 +41,4 @@ Click a domain to jump to the related labs and projects.
 
 ## Projects
 - **[SIEM](https://github.com/NachiketSLele/SIEM)** — Splunk & Sentinel lab work and write-ups *(live)*
-- **Detection Lab** — *planned*
-- **SOC Automation Lab** — *planned*
+
