@@ -57,7 +57,7 @@ Click a domain to jump to the related labs and projects.
 - **[SafeLine WAF Lab](https://github.com/NachiketSLele/Firewalls)** — Deployed a vulnerable web app (DVWA) behind a SafeLine WAF, launched SQL injection from Kali, and detected and blocked it — plus HTTP flood defense and custom deny rules.
 
 ### 📊 SIEM & Monitoring
-- **[Wazuh SIEM & FIM Lab]([REPO_LINK](https://github.com/NachiketSLele/SIEM))** — Deployed a Wazuh SIEM manager, onboarded a Windows agent, and set up File Integrity Monitoring with real-time alerting, verified through the Wazuh dashboard.
+- **[Wazuh SIEM & FIM Lab](https://github.com/NachiketSLele/SIEM)** — Deployed a Wazuh SIEM manager, onboarded a Windows agent, and set up File Integrity Monitoring with real-time alerting, verified through the Wazuh dashboard.
 
 ### 🗄️ Data & Databases
 - **[SQL – Parking Lot Management](https://github.com/NachiketSLele/Database)** — Relational database design with normalisation for allocations, records, and billing.
