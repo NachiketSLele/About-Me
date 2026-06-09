@@ -1,35 +1,46 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d5c,100:1679a7&height=250&section=header&text=Nachiket%20(Nick)%20Lele&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&descSize=18&descAlignY=56" width="100%" />
-
 <a href="https://www.linkedin.com/in/nachiket-lele-94b46218a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1679A7&center=true&vCenter=true&width=600&lines=Building+toward+SOC+%2F+Blue+Team;SIEM+%E2%80%A2+Detection+%E2%80%A2+Incident+Response" />
-
-</div>
-
 </div>
 
 ## About Me
-Cybersecurity Masters grad (University of Queensland), based in Brisbane and currently working as an ICT Support Engineer at NIET Group. I'm building toward a defensive security / SOC role and use this space to document the labs and write-ups I work through.
+Cybersecurity Masters grad (University of Queensland), based in Brisbane and currently working as an ICT Support Engineer at NIET Group. I'm building toward a cybersecurity role and use this space to document the labs and write-ups I work through.
 
 ## Objective
-To move into a blue team / SOC analyst role, with a longer-term focus on cloud security. I'm working through hands-on labs in different IT domains to back that up with practical, demonstrable skills.
+To move into an IT/Cyber role, with a longer-term focus on cloud security. I'm working through hands-on labs across different IT domains to back that up with practical, demonstrable skills.
 
 ## Skills & Labs
 Click a domain to jump to the related labs and projects.
 
 | Domain | Focus | Projects & Labs |
 |--------|-------|-----------------|
-| **[Cybersecurity](#)** | SIEM, log analysis, detection, incident response | <a href="https://github.com/NachiketSLele/SIEM">SIEM (Home Labs - Splunk)</a> |
-| **[Data Analytics](#)** | SQL | <a href="https://github.com/NachiketSLele/Database">SQL Project - Parking Lot Management </a>  |
-| **[Python](#)** | Scripting, automation, data processing | *coming soon* |
+| **Cybersecurity – SIEM** | SIEM, log analysis, file integrity monitoring, detection | <a href="REPO_LINK">Wazuh SIEM &amp; FIM Lab</a> |
+| **Network Security – Firewalls** | Firewalls, network segmentation, attack mitigation | <a href="REPO_LINK">pfSense DoS Defense Lab</a> · <a href="REPO_LINK">SafeLine WAF Lab</a> |
+| **Data Analytics** | SQL, database design | <a href="https://github.com/NachiketSLele/Database">SQL Project – Parking Lot Management</a> |
+| **Python** | Scripting, automation, data processing | *coming soon* |
 
 ## Tools
-### SIEM
+
+### SIEM & Monitoring
 <div>
+    <img src="https://img.shields.io/badge/-Wazuh-005C99?&style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Network Security
+<div>
+    <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SafeLine_WAF-1679a7?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
+
+### Languages & Databases
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ## Certifications
@@ -40,5 +51,13 @@ Click a domain to jump to the related labs and projects.
 </div>
 
 ## Projects
-- **[SIEM](https://github.com/NachiketSLele/SIEM)** — Splunk & Sentinel lab work and write-ups *(live)*
 
+### 🛡️ Firewall & Network Security
+- **[pfSense DoS Defense Lab](REPO_LINK)** — Built a segmented network with a pfSense firewall, simulated a DoS flood attack from Kali Linux, and blocked it with firewall rules (verified in Wireshark and firewall logs).
+- **[SafeLine WAF Lab](REPO_LINK)** — Deployed a vulnerable web app (DVWA) behind a SafeLine WAF, launched SQL injection from Kali, and detected and blocked it — plus HTTP flood defense and custom deny rules.
+
+### 📊 SIEM & Monitoring
+- **[Wazuh SIEM & FIM Lab](REPO_LINK)** — Deployed a Wazuh SIEM manager, onboarded a Windows agent, and set up File Integrity Monitoring with real-time alerting, verified through the Wazuh dashboard.
+
+### 🗄️ Data & Databases
+- **[SQL – Parking Lot Management](https://github.com/NachiketSLele/Database)** — Relational database design with normalisation for allocations, records, and billing.
