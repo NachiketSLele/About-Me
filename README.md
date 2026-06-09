@@ -14,8 +14,8 @@ Click a domain to jump to the related labs and projects.
 
 | Domain | Focus | Projects & Labs |
 |--------|-------|-----------------|
-| **Cybersecurity – SIEM** | SIEM, log analysis, file integrity monitoring, detection | <a href="REPO_LINK">Wazuh SIEM &amp; FIM Lab</a> |
-| **Network Security – Firewalls** | Firewalls, network segmentation, attack mitigation | <a href="REPO_LINK">pfSense DoS Defense Lab</a> · <a href="REPO_LINK">SafeLine WAF Lab</a> |
+| **Cybersecurity – SIEM** | SIEM, log analysis, file integrity monitoring, detection | <a href="https://github.com/NachiketSLele/SIEM">Wazuh SIEM &amp; FIM Lab</a> |
+| **Network Security – Firewalls** | Firewalls, network segmentation, attack mitigation | <a href="https://github.com/NachiketSLele/Firewalls">pfSense DoS Defense Lab</a> · <a href="https://github.com/NachiketSLele/Firewalls">SafeLine WAF Lab</a> |
 | **Data Analytics** | SQL, database design | <a href="https://github.com/NachiketSLele/Database">SQL Project – Parking Lot Management</a> |
 | **Python** | Scripting, automation, data processing | *coming soon* |
 
@@ -53,11 +53,11 @@ Click a domain to jump to the related labs and projects.
 ## Projects
 
 ### 🛡️ Firewall & Network Security
-- **[pfSense DoS Defense Lab](REPO_LINK)** — Built a segmented network with a pfSense firewall, simulated a DoS flood attack from Kali Linux, and blocked it with firewall rules (verified in Wireshark and firewall logs).
-- **[SafeLine WAF Lab](REPO_LINK)** — Deployed a vulnerable web app (DVWA) behind a SafeLine WAF, launched SQL injection from Kali, and detected and blocked it — plus HTTP flood defense and custom deny rules.
+- **[pfSense DoS Defense Lab](https://github.com/NachiketSLele/Firewalls)** — Built a segmented network with a pfSense firewall, simulated a DoS flood attack from Kali Linux, and blocked it with firewall rules (verified in Wireshark and firewall logs).
+- **[SafeLine WAF Lab](https://github.com/NachiketSLele/Firewalls)** — Deployed a vulnerable web app (DVWA) behind a SafeLine WAF, launched SQL injection from Kali, and detected and blocked it — plus HTTP flood defense and custom deny rules.
 
 ### 📊 SIEM & Monitoring
-- **[Wazuh SIEM & FIM Lab](REPO_LINK)** — Deployed a Wazuh SIEM manager, onboarded a Windows agent, and set up File Integrity Monitoring with real-time alerting, verified through the Wazuh dashboard.
+- **[Wazuh SIEM & FIM Lab]([REPO_LINK](https://github.com/NachiketSLele/SIEM))** — Deployed a Wazuh SIEM manager, onboarded a Windows agent, and set up File Integrity Monitoring with real-time alerting, verified through the Wazuh dashboard.
 
 ### 🗄️ Data & Databases
 - **[SQL – Parking Lot Management](https://github.com/NachiketSLele/Database)** — Relational database design with normalisation for allocations, records, and billing.
