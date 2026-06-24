@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d5c,100:1679a7&height=250&section=header&text=Nachiket%20(Nick)%20Lele&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=IT%20%7C%20Cybersecurity&descSize=18&descAlignY=56" width="100%" />
-<a href="https://www.linkedin.com/in/nachiket-lele-94b46218a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+
 
 ## About Me
 Cybersecurity Masters grad (University of Queensland), based in Brisbane and currently working as an ICT Support Engineer at NIET Group. I'm building toward a cybersecurity role and use this space to document the labs and write-ups I work through.
